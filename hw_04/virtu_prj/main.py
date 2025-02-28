@@ -1,8 +1,12 @@
-"""from calculation import my_function
+import sys
+import colorama
 
 
 def main():
-    my_function()"""
+    file_path = "/images"
+    result = folder(file_path)
+    print(sys.modules["colorama"])
+
 
 if __name__ == "__main__":
     main()

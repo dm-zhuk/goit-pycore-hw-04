@@ -18,3 +18,11 @@ Isabella Wilson,3050
 Henry Taylor,2250
 Mia Thomas,2950
 Lucas Anderson,3800
+Ava Hernandez,3350
+Michael Perez,2850
+Amelia Collins,3150
+Daniel Liu,2650
+Sophia Lee,3300
+Alexander King,4100
+Olivia White,2950
+David Lee,3400
