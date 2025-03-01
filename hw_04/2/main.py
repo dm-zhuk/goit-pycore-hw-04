@@ -6,8 +6,8 @@ from analyse import get_cats_info
 
 def main():
     file_path = "cats_db.txt"
-    result = get_cats_info(file_path)
-    for cat in result:
+    cats_info = get_cats_info(file_path)
+    for cat in cats_info:
         print(f"id: {cat['id']}, name: {cat['name']}, age: {cat['age']}")
 
 
