@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys
-from pathlib import Path
 from colorama import init, Fore
 
 init()
